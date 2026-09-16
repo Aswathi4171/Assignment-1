@@ -48,10 +48,6 @@ The main objectives of this assignment are:
 ## 💻 Tools Used
 
 * Microsoft Excel
-* GitHub
+* GitHu
 
-## 👩‍💻 Author
 
-**Ashwini**
-
-This project was created as part of my learning and practice in **Excel and Data Analytics**.
